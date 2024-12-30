@@ -1,4 +1,4 @@
-package com.xingyun.bigdream.product.facade.impl;
+package com.xingyun.bigdream.product.application.facade.impl;
 
 import com.xingyun.bigdream.product.api.ProductFacade;
 import org.springframework.http.ResponseEntity;
